@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alcool_Gasolina</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_botao_verificar">Verificar</string>
+</resources>
